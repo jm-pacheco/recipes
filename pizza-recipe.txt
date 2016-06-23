@@ -1,0 +1,7 @@
+Ingredients:
+ - A pizza
+ 
+Directions:
+ 1. Preheat oven to 220 degree C. 
+
+ 2. Bake 20 to 25 minutes
